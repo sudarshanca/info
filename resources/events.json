@@ -1,0 +1,47 @@
+[
+  {
+    "month": "January 2026",
+    "dates": [
+      {
+        "date": "2024-01-05",
+        "event": "Meeting Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+        "description": "<h1>Lorem ipsum dolor sit amet ipsum dolor sit amet</h1>"
+      },
+      {
+        "date": "2024-01-20",
+        "event": "Training",
+        "description": "<h1>Lorem ipsum dolor sit amet</h1>"
+      }
+    ]
+  },
+  {
+    "month": "February 2024",
+    "dates": [
+      {
+        "date": "2024-02-05",
+        "event": "Conference",
+        "description": "<h1>Lorem ipsum dolor sit amet</h1>"
+      },
+      {
+        "date": "2024-02-15",
+        "event": "Seminar hello",
+        "description": "<h1>Lorem ipsum dolor sit amet</h1>"
+      }
+    ]
+  },
+  {
+    "month": "March 2027",
+    "dates": [
+      {
+        "date": "2024-03-10",
+        "event": "Workshop",
+        "description": "<h1>Lorem ipsum dolor sit amet</h1>"
+      },
+      {
+        "date": "2024-03-25",
+        "event": "Training",
+        "description": "<h1>Lorem ipsum dolor sit amet</h1>"
+      }
+    ]
+  }
+]
